@@ -1,0 +1,83 @@
+{
+    "data": {
+        "campaign": [
+            {
+                "campaignType": "",
+                "endDate": "2019-07-27T16:05:41Z",
+                "flashsale": [
+                    {
+                        "campaignSerial": "CAMP-1",
+                        "countDown": {
+                            "currentInt": "1592370554",
+                            "currentStr": "2020-06-17T05:09:14.162834877Z",
+                            "deadlineInt": "1589648400",
+                            "deadlineStr": "2020-05-17T00:00:00+07:00"
+                        },
+                        "endDate": "2020-09-13T00:00:00Z",
+                        "header": {
+                            "bg_color": "#0E9749",
+                            "button": {
+                                "link": "https://event.ruangguru.com/ruangbelajar-wow",
+                                "text": "DAPATKAN!"
+                            },
+                            "enabled": false,
+                            "title": "Diskon 50% Paket 1 dan 2 Tahun"
+                        },
+                        "popup": {
+                            "bg_color": "#A52AA4",
+                            "button": {
+                                "link": "https://event.ruangguru.com/ruangbelajar-wow",
+                                "text": "Beli Sekarang"
+                            },
+                            "enabled": false,
+                            "header_image": "https://ruang-guru.imgix.net/assets/ruang_belajar/banner/flash+sale+wow+%402x.jpg",
+                            "price": {
+                                "discounted": 465000,
+                                "original": 930000
+                            },
+                            "subtitle": "ruangbelajar Paket 1 Tahun",
+                            "title": "Diskon 50%",
+                            "voucher_code": "JADIJUARA"
+                        },
+                        "priority": "",
+                        "startDate": "2020-05-13T00:00:00Z"
+                    }
+                ],
+                "isActive": true,
+                "name": "test",
+                "renewal": [
+                    {
+                        "banner": [
+                            {
+                                "basePrice": 1120000,
+                                "discountPriceCurrency": 616000,
+                                "finalPriceCurrency": 504000,
+                                "landscapeBannerUrl": "https://cdn2.hubspot.net/hubfs/2828691/Nitip%20File%20In-App%20Notification/200610%20renewal%20lanjutbelajar%20week%204%20landscape.jpg",
+                                "options": [
+                                    {
+                                        "deeplinkUrl": "ruangguru://PKG-XXXX,PKG-YYYY",
+                                        "title": ""
+                                    }
+                                ],
+                                "portraitBannerUrl": "https://cdn2.hubspot.net/hubfs/2828691/Nitip%20File%20In-App%20Notification/200610%20renewal%20lanjutbelajar%20week%204%20portrait.jpg",
+                                "ribbonTitle": "Perpanjang paket kamu",
+                                "title": "Diskon 55%",
+                                "voucherSerial": "LANJUTBELAJAR"
+                            }
+                        ],
+                        "campaignSerial": "CAMP-1",
+                        "endDate": "2020-09-13T00:00:00Z",
+                        "isShowPopup": true,
+                        "priority": "1",
+                        "startDate": "2020-05-13T00:00:00Z"
+                    }
+                ],
+                "serial": "CAMP-1",
+                "startDate": "2019-03-27T16:05:41Z",
+                "target": ""
+            }
+        ]
+    },
+    "status": "success",
+    "message": "success"
+}
